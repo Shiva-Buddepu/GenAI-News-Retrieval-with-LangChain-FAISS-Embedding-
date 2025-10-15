@@ -1,0 +1,1 @@
+# GenAI-News-Retrieval-with-LangChain-FAISS-Embedding-
